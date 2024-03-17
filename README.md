@@ -1,3 +1,18 @@
+#Set Up
+1) git clone https://github.com/Pandey-Narendra/laravel_React_Inertia.git
+2) npm install
+3) composer install
+4) database setup and .env setup
+5) php aritsan migrate
+6) php artisan app:import-data (creates 1 admin and user in the database in users table)
+7) npm run dev (in 1 terminal)
+8) php artisan serve (in other terminal)
+9) to login as a Admin without registeration use email = admin@gmail.com and password = admin@123
+10) to login as a Admin without registeration use email = user@gmail.com and password = user@123
+   
+    # just a dummy application with React Inertia js integrated inside a Laravel in a single Application
+
+    
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
